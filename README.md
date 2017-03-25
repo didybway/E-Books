@@ -15,7 +15,7 @@ A collection of E-books by PacketPub
 
 ## Shell Scripting 
 
-- [Linux Shell Scripting Cookbook](https://github.com/nairuzabulhul/EBooks/blob/master/Shell%20Scripting/LINUX_SHELL_SCRIPTING_COOKBOOK.pdf)
+- [Linux Shell Scripting Cookbook](https://github.com/nairuzabulhul/E-Books/blob/master/Shell%20Scripting/LINUX_SHELL_SCRIPTING_COOKBOOK.pdf)
 
 
 ## Embeded Systems 
