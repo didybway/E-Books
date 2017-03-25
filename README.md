@@ -3,6 +3,11 @@
 A collection of E-books by PacketPub
 
 
+##GitHub
+
+- [GitHub Essentials](https://github.com/nairuzabulhul/E-Books/blob/master/GitHub/GitHub%20Essentials%20%5BeBook%5D.pdf)
+
+
 
 ## Embeded Systems 
 
@@ -11,3 +16,6 @@ A collection of E-books by PacketPub
 
 
 
+## Cloud Technology
+
+- [Learning AWS](https://github.com/nairuzabulhul/E-Books/blob/master/Cloud%20Technology/LEARNING_AWS.pdf)
