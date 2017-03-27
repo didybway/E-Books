@@ -2,6 +2,11 @@
 
 A collection of E-books by PacketPub
 
+## Algorithms and Data Structures:
+
+- [Grokking_Algorithms](https://github.com/nairuzabulhul/E-Books/blob/master/Algorithms/Grokking_Algorithms.pdf)
+
+- [Landing Your Next Job, Third Edition - Secrets to Landing Your Next Job](https://github.com/nairuzabulhul/E-Books/blob/master/Algorithms/Landing%20Your%20Next%20Job%2C%20Third%20Edition%20-%20Secrets%20to%20Landing%20Your%20Next%20Job%5D.pdf)
 
 ## GitHub
 
