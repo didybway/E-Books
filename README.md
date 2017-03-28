@@ -22,6 +22,8 @@ A collection of E-books by PacketPub
 
 - [Linux Shell Scripting Cookbook](https://github.com/nairuzabulhul/E-Books/blob/master/Shell%20Scripting/LINUX_SHELL_SCRIPTING_COOKBOOK.pdf)
 
+- [Mastering Linux Shell Scripting](https://github.com/nairuzabulhul/E-Books/blob/master/Shell%20Scripting/Mastering%20Linux%20Shell%20Scripting%20%5BeBook%5D.pdf)
+
 
 ## Embeded Systems 
 
@@ -29,7 +31,9 @@ A collection of E-books by PacketPub
 
 - [Arduino Developemnt Cookbook](https://github.com/nairuzabulhul/E-Books/blob/master/Embedded%20Systems/ARDUINO_DEVELOPMENT_COOKBOOK.pdf)
 
-- [Raspberry Programming](https://github.com/nairuzabulhul/E-Books/blob/master/Embedded%20Systems/Raspberry%20Programming.pdf)
+- [Raspberry Pi Cookbook for Python Programmers](https://github.com/nairuzabulhul/E-Books/blob/master/Embedded%20Systems/Raspberry%20Programming.pdf)
+
+- [Learning Raspberry Pi](https://github.com/nairuzabulhul/E-Books/blob/master/Embedded%20Systems/LEARNING_RASPBERRY_PI.pdf)
 
 
 ## Cloud Technology
@@ -44,3 +48,24 @@ A collection of E-books by PacketPub
 - [Python 3 Object Oriented Programming](https://github.com/nairuzabulhul/E-Books/blob/master/Python/Python%203%20Object%20Oriented%20Programming%20%5BeBook%5D.pdf)
 
 - [Mastering Object Oriented Python](https://github.com/nairuzabulhul/E-Books/blob/master/Python/MASTERING_OBJECTORIENTED_PYTHON.pdf)
+
+
+## Java
+
+- [Learning Java Functional Programming]()
+
+
+
+## JavaScript:
+
+- [Mastering JavaScript High Performance](https://github.com/nairuzabulhul/E-Books/blob/master/JavaScript/Mastering%20JavaScript%20High%20Performance%20%5BeBook%5D.pdf)
+
+
+
+## Web Development 
+
+- [Thinking in CSS](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/Thinking%20in%20CSS.pdf)
+
+- [Mastering Responsive Web Design](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/MASTERING_RESPONSIVE_WEB_DESIGN.pdf)
+
+- [Building Websites with VB.Net and DotNetNuke 4](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/BUILDING_WEBSITES_WITH_VBNET_AND_DOTNETNUKE_4.pdf)
