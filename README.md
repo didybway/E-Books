@@ -49,6 +49,8 @@ A collection of E-books by PacketPub
 - [Mastering Object Oriented Python](https://github.com/nairuzabulhul/E-Books/blob/master/Python/MASTERING_OBJECTORIENTED_PYTHON.pdf)
 
 
+- [Learning Data Mining with Python]()
+
 ## Java
 
 - [Learning Java Functional Programming]()
