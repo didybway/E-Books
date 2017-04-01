@@ -55,6 +55,8 @@ A collection of E-books by PacketPub
 
 - [Learning Java Functional Programming]()
 
+- [Java Deep Learning Essentials ](https://github.com/nairuzabulhul/E-Books/blob/master/Java/JAVA_DEEP_LEARNING_ESSENTIALS.pdf)
+
 
 
 ## JavaScript:
@@ -71,6 +73,7 @@ A collection of E-books by PacketPub
 
 - [Building Websites with VB.Net and DotNetNuke 4](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/BUILDING_WEBSITES_WITH_VBNET_AND_DOTNETNUKE_4.pdf)
 
+- [Switching to Angular 2](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/SWITCHING_TO_ANGULAR_2.pdf)
 
 
 ## Game Developement
