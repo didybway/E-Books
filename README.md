@@ -49,7 +49,7 @@ A collection of E-books by PacketPub
 - [Mastering Object Oriented Python](https://github.com/nairuzabulhul/E-Books/blob/master/Python/MASTERING_OBJECTORIENTED_PYTHON.pdf)
 
 
-- [Learning Data Mining with Python]()
+- [Learning Data Mining with Python](https://github.com/nairuzabulhul/E-Books/blob/master/Python/LEARNING_DATA_MINING_WITH_PYTHON.pdf)
 
 ## Java
 
