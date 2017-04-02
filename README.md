@@ -39,17 +39,18 @@ A collection of E-books by PacketPub
 
 - [Learning AWS](https://github.com/nairuzabulhul/E-Books/blob/master/Cloud%20Technology/LEARNING_AWS.pdf)
 
-- [Mastering AWS Development](https://github.com/nairuzabulhul/E-Books/blob/master/Cloud%20Technology/MASTERING_AWS_DEVELOPMENT.pdf)
+- [Mastering AWS Development]()
 
 
 ### Machine Learning
 
-- [What You Need to Know about Machine Learning](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/What%20You%20Need%20to%20Know%20about%20Machine%20Learning%20%5BeBook%5D.pdf)
+- [What You Need to Know about Machine Learning]()
 
 
-### Networking
+### Networking 
 
-- [Neural Network Programming with Java](https://github.com/nairuzabulhul/E-Books/blob/master/Networking/NEURAL_NETWORK_PROGRAMMING_WITH_JAVA.pdf)
+- [Neural Network Programming with Java]()
+
 
 ### Python 
 
@@ -74,6 +75,8 @@ A collection of E-books by PacketPub
 
 - [Mastering JavaScript High Performance](https://github.com/nairuzabulhul/E-Books/blob/master/JavaScript/Mastering%20JavaScript%20High%20Performance%20%5BeBook%5D.pdf)
 
+
+- [Thinking in JavaScript]()
 
 
 ### C#
@@ -100,3 +103,5 @@ A collection of E-books by PacketPub
 - [Learning C# by Developing Games with Unity 5.x - Second Edition ](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/LEARNING_C_BY_DEVELOPING_GAMES_WITH_UNITY_5X_SECOND_EDITION.pdf)
 
 - [Creative Greenfoot](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/CREATIVE_GREENFOOT_RAW.pdf)
+
+- [Mastering iOS Game Development]()
