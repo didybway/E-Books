@@ -59,13 +59,13 @@ A collection of E-books by PacketPub
 
 
 
-## JavaScript:
+## JavaScript
 
 - [Mastering JavaScript High Performance](https://github.com/nairuzabulhul/E-Books/blob/master/JavaScript/Mastering%20JavaScript%20High%20Performance%20%5BeBook%5D.pdf)
 
 
 
-## C# :
+## C#
 
 - [C# 6 and .NET Core 1.0: Modern Cross-Platform Development]()
 
