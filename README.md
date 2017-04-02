@@ -53,7 +53,7 @@ A collection of E-books by PacketPub
 
 ## Java
 
-- [Learning Java Functional Programming]()
+- [Learning Java Functional Programming](https://github.com/nairuzabulhul/E-Books/blob/master/Java/LEARNING_JAVA_FUNCTIONAL_PROGRAMMING.pdf)
 
 - [Java Deep Learning Essentials ](https://github.com/nairuzabulhul/E-Books/blob/master/Java/JAVA_DEEP_LEARNING_ESSENTIALS.pdf)
 
