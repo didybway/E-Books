@@ -67,7 +67,7 @@ A collection of E-books by PacketPub
 
 ### C#
 
-- [C# 6 and .NET Core 1.0: Modern Cross-Platform Development]()
+- [C# 6 and .NET Core 1.0: Modern Cross-Platform Development](https://github.com/nairuzabulhul/E-Books/blob/master/C%23/C_6_AND_NET_CORE_10_MODERN_CROSSPLATFORM_DEVELOPMENT.pdf)
 
 
 
@@ -81,6 +81,8 @@ A collection of E-books by PacketPub
 
 - [Switching to Angular 2](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/SWITCHING_TO_ANGULAR_2.pdf)
 
+
+- [Django By Example]()
 
 ### Game Developement
 
