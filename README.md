@@ -39,17 +39,17 @@ A collection of E-books by PacketPub
 
 - [Learning AWS](https://github.com/nairuzabulhul/E-Books/blob/master/Cloud%20Technology/LEARNING_AWS.pdf)
 
-- [Mastering AWS Development]()
+- [Mastering AWS Development](https://github.com/nairuzabulhul/E-Books/blob/master/Cloud%20Technology/MASTERING_AWS_DEVELOPMENT.pdf)
 
 
 ### Machine Learning
 
-- [What You Need to Know about Machine Learning]()
+- [What You Need to Know about Machine Learning](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/What%20You%20Need%20to%20Know%20about%20Machine%20Learning%20%5BeBook%5D.pdf)
 
 
 ### Networking 
 
-- [Neural Network Programming with Java]()
+- [Neural Network Programming with Java](https://github.com/nairuzabulhul/E-Books/blob/master/Networking/NEURAL_NETWORK_PROGRAMMING_WITH_JAVA.pdf)
 
 
 ### Python 
@@ -76,13 +76,12 @@ A collection of E-books by PacketPub
 - [Mastering JavaScript High Performance](https://github.com/nairuzabulhul/E-Books/blob/master/JavaScript/Mastering%20JavaScript%20High%20Performance%20%5BeBook%5D.pdf)
 
 
-- [Thinking in JavaScript]()
+- [Thinking in JavaScript](https://github.com/nairuzabulhul/E-Books/blob/master/JavaScript/THINKING_IN_JAVASCRIPT.pdf)
 
 
 ### C#
 
 - [C# 6 and .NET Core 1.0: Modern Cross-Platform Development](https://github.com/nairuzabulhul/E-Books/blob/master/C%23/C_6_AND_NET_CORE_10_MODERN_CROSSPLATFORM_DEVELOPMENT.pdf)
-
 
 
 ### Web Development 
@@ -104,4 +103,4 @@ A collection of E-books by PacketPub
 
 - [Creative Greenfoot](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/CREATIVE_GREENFOOT_RAW.pdf)
 
-- [Mastering iOS Game Development]()
+- [Mastering iOS Game Development](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/MASTERING_IOS_GAME_DEVELOPMENT.pdf)
