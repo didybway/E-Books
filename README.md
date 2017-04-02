@@ -82,7 +82,7 @@ A collection of E-books by PacketPub
 - [Switching to Angular 2](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/SWITCHING_TO_ANGULAR_2.pdf)
 
 
-- [Django By Example]()
+- [Django By Example](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/DJANGO_BY_EXAMPLE.pdf)
 
 ### Game Developement
 
