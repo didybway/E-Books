@@ -39,6 +39,13 @@ A collection of E-books by PacketPub
 
 - [Learning AWS](https://github.com/nairuzabulhul/E-Books/blob/master/Cloud%20Technology/LEARNING_AWS.pdf)
 
+- [Mastering AWS Development]()
+
+
+### Machine Learning
+
+- [What You Need to Know about Machine Learning]()
+
 
 ### Python 
 
