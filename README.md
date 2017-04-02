@@ -65,6 +65,12 @@ A collection of E-books by PacketPub
 
 
 
+## C# :
+
+- [C# 6 and .NET Core 1.0: Modern Cross-Platform Development]()
+
+
+
 ## Web Development 
 
 - [Thinking in CSS](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/Thinking%20in%20CSS.pdf)
