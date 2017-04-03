@@ -53,6 +53,7 @@ A collection of E-books by PacketPub
 
 - [Practical Data Analysis]()
 
+- [Hadoop Explained]()
 
 ### R
 
@@ -101,11 +102,16 @@ A collection of E-books by PacketPub
 
 - [Android NDK: Beginner's Guide - Second Edition]()
 
+- [Android 5 Programming by Example] ()
+
 
 
 ### iOS
 
 - [Test-Driven iOS Development with Swift]()
+
+- [Swift Essentials - Second Edition ]()
+
 
 ### Web Development 
 
@@ -127,6 +133,11 @@ A collection of E-books by PacketPub
 - [What You Need To Know About Node.js]()
 
 
+- [Learning Docker ]()
+
+- [What You Need to Know about Docker]()
+
+- [AngularJS Web Application Development Cookbook]()
 
 
 ### Game Developement
@@ -139,3 +150,5 @@ A collection of E-books by PacketPub
 
 
 - [Getting Started with Unity 5]()
+
+- [What you need to know about Unity 5]()
