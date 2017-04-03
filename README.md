@@ -100,17 +100,17 @@ A collection of E-books by PacketPub
 
 ### Android
 
-- [Android NDK: Beginner's Guide - Second Edition]()
+- [Android NDK: Beginner's Guide - Second Edition](https://github.com/nairuzabulhul/E-Books/blob/master/Android/ANDROID_NDK_BEGINNERS_GUIDE_SECOND_EDITION.pdf)
 
-- [Android 5 Programming by Example] ()
+- [Android 5 Programming by Example] (https://github.com/nairuzabulhul/E-Books/blob/master/Android/ANDROID_5_PROGRAMMING_BY_EXAMPLE.pdf)
 
 
 
 ### iOS
 
-- [Test-Driven iOS Development with Swift]()
+- [Test-Driven iOS Development with Swift](https://github.com/nairuzabulhul/E-Books/blob/master/iOS/TESTDRIVEN_IOS_DEVELOPMENT_WITH_SWIFT.pdf)
 
-- [Swift Essentials - Second Edition ]()
+- [Swift Essentials - Second Edition ](https://github.com/nairuzabulhul/E-Books/blob/master/iOS/SWIFT_ESSENTIALS_SECOND_EDITION.pdf)
 
 
 ### Web Development 
