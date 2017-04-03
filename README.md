@@ -51,13 +51,13 @@ A collection of E-books by PacketPub
 
 ### Data Anaylsis 
 
-- [Practical Data Analysis]()
+- [Practical Data Analysis](https://github.com/nairuzabulhul/E-Books/blob/master/Data%20Analysis/PRACTICAL_DATA_ANALYSIS.pdf)
 
-- [Hadoop Explained]()
+- [Hadoop Explained](https://github.com/nairuzabulhul/E-Books/blob/master/Data%20Analysis/HADOOP_EXPLAINED.pdf)
 
 ### R
 
-- [What you need to know about R]()
+- [What you need to know about R](https://github.com/nairuzabulhul/E-Books/blob/master/R/What%20you%20need%20to%20know%20about%20R%20%5BeBook%5D.pdf)
 
 
 ### Networking 
@@ -102,7 +102,7 @@ A collection of E-books by PacketPub
 
 - [Android NDK: Beginner's Guide - Second Edition](https://github.com/nairuzabulhul/E-Books/blob/master/Android/ANDROID_NDK_BEGINNERS_GUIDE_SECOND_EDITION.pdf)
 
-- [Android 5 Programming by Example] (https://github.com/nairuzabulhul/E-Books/blob/master/Android/ANDROID_5_PROGRAMMING_BY_EXAMPLE.pdf)
+- [Android 5 Programming by Example](https://github.com/nairuzabulhul/E-Books/blob/master/Android/ANDROID_5_PROGRAMMING_BY_EXAMPLE.pdf)
 
 
 
