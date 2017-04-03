@@ -34,7 +34,7 @@ A collection of E-books by PacketPub
 
 - [Learning Raspberry Pi](https://github.com/nairuzabulhul/E-Books/blob/master/Embedded%20Systems/LEARNING_RASPBERRY_PI.pdf)
 
-- [C Programming for Arduino]()
+- [C Programming for Arduino](https://github.com/nairuzabulhul/E-Books/blob/master/Embedded%20Systems/C_PROGRAMMING_FOR_ARDUINO.pdf)
 
 
 ### Cloud Technology
@@ -127,17 +127,17 @@ A collection of E-books by PacketPub
 - [Django By Example](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/DJANGO_BY_EXAMPLE.pdf)
 
 
-- [Practical Responsive Typography]()
+- [Practical Responsive Typography](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/PRACTICAL_RESPONSIVE_TYPOGRAPHY.pdf)
 
 
-- [What You Need To Know About Node.js]()
+- [What You Need To Know About Node.js](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/What%20You%20Need%20To%20Know%20About%20Node.js%20%5BeBook%5D.pdf)
 
 
-- [Learning Docker ]()
+- [Learning Docker ](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/LEARNING_DOCKER.pdf)
 
-- [What You Need to Know about Docker]()
+- [What You Need to Know about Docker](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/WHAT_YOU_NEED_TO_KNOW_ABOUT_DOCKER.pdf)
 
-- [AngularJS Web Application Development Cookbook]()
+- [AngularJS Web Application Development Cookbook](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/ANGULARJS_WEB_APPLICATION_DEVELOPMENT_COOKBOOK.pdf)
 
 
 ### Game Developement
