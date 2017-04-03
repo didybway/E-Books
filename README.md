@@ -34,6 +34,8 @@ A collection of E-books by PacketPub
 
 - [Learning Raspberry Pi](https://github.com/nairuzabulhul/E-Books/blob/master/Embedded%20Systems/LEARNING_RASPBERRY_PI.pdf)
 
+- [C Programming for Arduino]()
+
 
 ### Cloud Technology
 
@@ -50,6 +52,11 @@ A collection of E-books by PacketPub
 ### Data Anaylsis 
 
 - [Practical Data Analysis]()
+
+
+### R
+
+- [What you need to know about R]()
 
 
 ### Networking 
@@ -88,6 +95,17 @@ A collection of E-books by PacketPub
 
 - [C# 6 and .NET Core 1.0: Modern Cross-Platform Development](https://github.com/nairuzabulhul/E-Books/blob/master/C%23/C_6_AND_NET_CORE_10_MODERN_CROSSPLATFORM_DEVELOPMENT.pdf)
 
+
+
+### Android
+
+- [Android NDK: Beginner's Guide - Second Edition]()
+
+
+
+### iOS
+
+- [Test-Driven iOS Development with Swift]()
 
 ### Web Development 
 
