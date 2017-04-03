@@ -47,6 +47,11 @@ A collection of E-books by PacketPub
 - [What You Need to Know about Machine Learning](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/What%20You%20Need%20to%20Know%20about%20Machine%20Learning%20%5BeBook%5D.pdf)
 
 
+### Data Anaylsis 
+
+- [Practical Data Analysis]()
+
+
 ### Networking 
 
 - [Neural Network Programming with Java](https://github.com/nairuzabulhul/E-Books/blob/master/Networking/NEURAL_NETWORK_PROGRAMMING_WITH_JAVA.pdf)
@@ -97,6 +102,15 @@ A collection of E-books by PacketPub
 
 - [Django By Example](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/DJANGO_BY_EXAMPLE.pdf)
 
+
+- [Practical Responsive Typography]()
+
+
+- [What You Need To Know About Node.js]()
+
+
+
+
 ### Game Developement
 
 - [Learning C# by Developing Games with Unity 5.x - Second Edition ](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/LEARNING_C_BY_DEVELOPING_GAMES_WITH_UNITY_5X_SECOND_EDITION.pdf)
@@ -104,3 +118,6 @@ A collection of E-books by PacketPub
 - [Creative Greenfoot](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/CREATIVE_GREENFOOT_RAW.pdf)
 
 - [Mastering iOS Game Development](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/MASTERING_IOS_GAME_DEVELOPMENT.pdf)
+
+
+- [Getting Started with Unity 5]()
