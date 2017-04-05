@@ -76,6 +76,8 @@ A collection of E-books by PacketPub
 
 - [Learning Data Mining with Python](https://github.com/nairuzabulhul/E-Books/blob/master/Python/LEARNING_DATA_MINING_WITH_PYTHON.pdf)
 
+- [Expert Python Programming]()
+
 ### Java
 
 - [Learning Java Functional Programming](https://github.com/nairuzabulhul/E-Books/blob/master/Java/LEARNING_JAVA_FUNCTIONAL_PROGRAMMING.pdf)
@@ -138,6 +140,9 @@ A collection of E-books by PacketPub
 - [What You Need to Know about Docker](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/WHAT_YOU_NEED_TO_KNOW_ABOUT_DOCKER.pdf)
 
 - [AngularJS Web Application Development Cookbook](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/ANGULARJS_WEB_APPLICATION_DEVELOPMENT_COOKBOOK.pdf)
+
+
+- [Magento 2 Developer's Guide]()
 
 
 ### Game Developement
