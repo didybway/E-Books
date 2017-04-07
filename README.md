@@ -144,6 +144,7 @@ A collection of E-books by PacketPub
 
 - [Magento 2 Developer's Guide]()
 
+- [Node.js Design Patterns]()
 
 ### Game Developement
 
