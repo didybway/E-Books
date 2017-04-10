@@ -48,12 +48,17 @@ A collection of E-books by PacketPub
 
 - [What You Need to Know about Machine Learning](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/What%20You%20Need%20to%20Know%20about%20Machine%20Learning%20%5BeBook%5D.pdf)
 
+- [Python Machine Learning ]()
+
 
 ### Data Anaylsis 
 
 - [Practical Data Analysis](https://github.com/nairuzabulhul/E-Books/blob/master/Data%20Analysis/PRACTICAL_DATA_ANALYSIS.pdf)
 
 - [Hadoop Explained](https://github.com/nairuzabulhul/E-Books/blob/master/Data%20Analysis/HADOOP_EXPLAINED.pdf)
+
+- [Mastering matplotlib]()
+
 
 ### R
 
@@ -145,6 +150,11 @@ A collection of E-books by PacketPub
 - [Magento 2 Developer's Guide]()
 
 - [Node.js Design Patterns]()
+
+
+- [WordPress 4.x Complete]()
+
+
 
 ### Game Developement
 
