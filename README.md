@@ -48,7 +48,7 @@ A collection of E-books by PacketPub
 
 - [What You Need to Know about Machine Learning](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/What%20You%20Need%20to%20Know%20about%20Machine%20Learning%20%5BeBook%5D.pdf)
 
-- [Python Machine Learning ]()
+- [Python Machine Learning ](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/PYTHON_MACHINE_LEARNING.pdf)
 
 
 ### Data Anaylsis 
@@ -57,7 +57,7 @@ A collection of E-books by PacketPub
 
 - [Hadoop Explained](https://github.com/nairuzabulhul/E-Books/blob/master/Data%20Analysis/HADOOP_EXPLAINED.pdf)
 
-- [Mastering matplotlib]()
+- [Mastering matplotlib](https://github.com/nairuzabulhul/E-Books/blob/master/Data%20Analysis/MASTERING_MATPLOTLIB.pdf)
 
 
 ### R
@@ -81,7 +81,9 @@ A collection of E-books by PacketPub
 
 - [Learning Data Mining with Python](https://github.com/nairuzabulhul/E-Books/blob/master/Python/LEARNING_DATA_MINING_WITH_PYTHON.pdf)
 
-- [Expert Python Programming]()
+- [Expert Python Programming](https://github.com/nairuzabulhul/E-Books/blob/master/Python/EXPERT_PYTHON_PROGRAMMING.pdf)
+
+
 
 ### Java
 
