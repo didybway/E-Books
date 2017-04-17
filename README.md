@@ -182,4 +182,4 @@ A collection of E-books by PacketPub
 
 - [Learning C++ by Creating Games with UE4](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/LEARNING_C_BY_CREATING_GAMES_WITH_UE4.pdf)
 
-- [The Game Jam Survival Guide]()
+- [The Game Jam Survival Guide](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/THE_GAME_JAM_SURVIVAL_GUIDE.pdf)
