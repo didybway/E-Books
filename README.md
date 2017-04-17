@@ -151,7 +151,7 @@ A collection of E-books by PacketPub
 
 - [Magento 2 Developer's Guide](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/MAGENTO_2_DEVELOPERS_GUIDE.pdf)
 
-- [Node.js Design Patterns]()
+- [Node.js Design Patterns](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/NODEJS_DESIGN_PATTERNS.pdf)
 
 
 - [WordPress 4.x Complete]()
