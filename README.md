@@ -66,7 +66,7 @@ A collection of E-books by PacketPub
 - [What you need to know about R](https://github.com/nairuzabulhul/E-Books/blob/master/R/What%20you%20need%20to%20know%20about%20R%20%5BeBook%5D.pdf)
 
 
-- [R Deep Learning Essentials ]()
+- [R Deep Learning Essentials ](https://github.com/nairuzabulhul/E-Books/blob/master/R/R_DEEP_LEARNING_ESSENTIALS.pdf)
 
 ### Networking 
 
