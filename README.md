@@ -94,6 +94,8 @@ A collection of E-books by PacketPub
 
 - [Java Deep Learning Essentials ](https://github.com/nairuzabulhul/E-Books/blob/master/Java/JAVA_DEEP_LEARNING_ESSENTIALS.pdf)
 
+- [Learning Reactive Programming with Java 8]()
+
 
 
 ### JavaScript
