@@ -50,6 +50,7 @@ A collection of E-books by PacketPub
 
 - [Python Machine Learning ](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/PYTHON_MACHINE_LEARNING.pdf)
 
+- [OpenCV Computer Vision with Python]()
 
 ### Data Anaylsis 
 
@@ -113,6 +114,8 @@ A collection of E-books by PacketPub
 
 - [Android 5 Programming by Example](https://github.com/nairuzabulhul/E-Books/blob/master/Android/ANDROID_5_PROGRAMMING_BY_EXAMPLE.pdf)
 
+- [Android Programming for Beginners]()
+
 
 
 ### iOS
@@ -156,6 +159,7 @@ A collection of E-books by PacketPub
 
 - [WordPress 4.x Complete](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/WORDPRESS_4X_COMPLETE.pdf)
 
+- [Mastering Docker ]()
 
 
 ### Game Developement
