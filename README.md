@@ -180,6 +180,6 @@ A collection of E-books by PacketPub
 - [What you need to know about Unity 5](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/WHAT_YOU_NEED_TO_KNOW_ABOUT_UNITY_5.pdf)
 
 
-- [Learning C++ by Creating Games with UE4]()
+- [Learning C++ by Creating Games with UE4](https://github.com/nairuzabulhul/E-Books/blob/master/Game%20Development/LEARNING_C_BY_CREATING_GAMES_WITH_UE4.pdf)
 
 - [The Game Jam Survival Guide]()
