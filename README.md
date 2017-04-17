@@ -179,3 +179,5 @@ A collection of E-books by PacketPub
 
 
 - [Learning C++ by Creating Games with UE4]()
+
+- [The Game Jam Survival Guide]()
