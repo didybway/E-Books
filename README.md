@@ -154,7 +154,7 @@ A collection of E-books by PacketPub
 - [Node.js Design Patterns](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/NODEJS_DESIGN_PATTERNS.pdf)
 
 
-- [WordPress 4.x Complete]()
+- [WordPress 4.x Complete](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/WORDPRESS_4X_COMPLETE.pdf)
 
 
 
