@@ -50,7 +50,7 @@ A collection of E-books by PacketPub
 
 - [Python Machine Learning ](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/PYTHON_MACHINE_LEARNING.pdf)
 
-- [OpenCV Computer Vision with Python]()
+- [OpenCV Computer Vision with Python](https://github.com/nairuzabulhul/E-Books/blob/master/Machine%20Learning/OPENCV_COMPUTER_VISION_WITH_PYTHON.pdf)
 
 ### Data Anaylsis 
 
