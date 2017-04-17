@@ -149,7 +149,7 @@ A collection of E-books by PacketPub
 - [AngularJS Web Application Development Cookbook](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/ANGULARJS_WEB_APPLICATION_DEVELOPMENT_COOKBOOK.pdf)
 
 
-- [Magento 2 Developer's Guide]()
+- [Magento 2 Developer's Guide](https://github.com/nairuzabulhul/E-Books/blob/master/Web%20Development/MAGENTO_2_DEVELOPERS_GUIDE.pdf)
 
 - [Node.js Design Patterns]()
 
